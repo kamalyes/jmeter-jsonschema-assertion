@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+target
+examples/apache-jmeter*
+*.log
+*.jar
